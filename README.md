@@ -1,3 +1,3 @@
-# Smart-Contract-with-Front-End
+# Smart-Contract-Interact-with-Web
 
-Interacting a Banking application via Smart Contract
+Interacting a Banking web application via Smart Contract
